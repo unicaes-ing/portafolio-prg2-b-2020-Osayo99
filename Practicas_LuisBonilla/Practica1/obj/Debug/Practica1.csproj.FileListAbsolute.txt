@@ -31,3 +31,15 @@ C:\Users\Osayo\Source\Repos\portafolio-prg2-b-2020-Osayo99\Practica1\Practica1\o
 C:\Users\Osayo\Source\Repos\portafolio-prg2-b-2020-Osayo99\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
 C:\Users\Osayo\Source\Repos\portafolio-prg2-b-2020-Osayo99\Practica1\Practica1\obj\Debug\Practica1.exe
 C:\Users\Osayo\Source\Repos\portafolio-prg2-b-2020-Osayo99\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\bin\Debug\Practica1.exe
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.P1E1.resources
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.P1E2.resources
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.P1E3.resources
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.P1E4.resources
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.exe
+C:\Users\Osayo\source\repos\portafolio-prg2-b-2020-Osayo99\Practicas_LuisBonilla\Practica1\obj\Debug\Practica1.pdb
