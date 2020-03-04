@@ -74,7 +74,7 @@
             // btncancelar
             // 
             this.btncancelar.Location = new System.Drawing.Point(258, 191);
-            this.btncancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btncancelar.Margin = new System.Windows.Forms.Padding(4);
             this.btncancelar.Name = "btncancelar";
             this.btncancelar.Size = new System.Drawing.Size(100, 28);
             this.btncancelar.TabIndex = 3;
@@ -84,17 +84,18 @@
             // btnaceptar
             // 
             this.btnaceptar.Location = new System.Drawing.Point(134, 191);
-            this.btnaceptar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnaceptar.Margin = new System.Windows.Forms.Padding(4);
             this.btnaceptar.Name = "btnaceptar";
             this.btnaceptar.Size = new System.Drawing.Size(100, 28);
             this.btnaceptar.TabIndex = 4;
             this.btnaceptar.Text = "Aceptar";
             this.btnaceptar.UseVisualStyleBackColor = true;
+            this.btnaceptar.Click += new System.EventHandler(this.btnaceptar_Click);
             // 
             // txtCorreo
             // 
             this.txtCorreo.Location = new System.Drawing.Point(96, 15);
-            this.txtCorreo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCorreo.Margin = new System.Windows.Forms.Padding(4);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(347, 22);
             this.txtCorreo.TabIndex = 5;
@@ -102,7 +103,7 @@
             // txtContra
             // 
             this.txtContra.Location = new System.Drawing.Point(209, 59);
-            this.txtContra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtContra.Margin = new System.Windows.Forms.Padding(4);
             this.txtContra.Name = "txtContra";
             this.txtContra.Size = new System.Drawing.Size(132, 22);
             this.txtContra.TabIndex = 6;
@@ -110,7 +111,7 @@
             // txtValidContra
             // 
             this.txtValidContra.Location = new System.Drawing.Point(209, 118);
-            this.txtValidContra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtValidContra.Margin = new System.Windows.Forms.Padding(4);
             this.txtValidContra.Name = "txtValidContra";
             this.txtValidContra.Size = new System.Drawing.Size(132, 22);
             this.txtValidContra.TabIndex = 7;
@@ -132,7 +133,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form4";
             this.Text = "P2E4";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
